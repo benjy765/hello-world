@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hi everybody!
+
+This is a README file.
+So, please read me!
